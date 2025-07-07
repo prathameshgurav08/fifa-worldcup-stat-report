@@ -37,7 +37,7 @@ FIFA-WorldCup-PowerBI/
 - Total matches played, goals scored, and tournaments held.
 - Quick KPIs showing most successful teams.
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/1.png)
 
 ---
 
@@ -45,7 +45,7 @@ FIFA-WorldCup-PowerBI/
 - Bar chart showing most World Cup wins.
 - Performance trends over years.
 
-![Top Teams](screenshots/top_teams.png)
+![Top Teams](screenshots/2.png)
 
 ---
 
@@ -53,14 +53,14 @@ FIFA-WorldCup-PowerBI/
 - Top goal scorers across different tournaments.
 - Player-wise performance breakdown.
 
-![Player Analysis](screenshots/player_analysis.png)
+![Player Analysis](screenshots/3.png)
 
 ---
 
 ### 4️⃣ Map Visualization
 - World map showing countries with most World Cup wins.
 
-![Map Analysis](screenshots/map_analysis.png)
+![Map Analysis](screenshots/4.png)
 
 ---
 
